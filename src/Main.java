@@ -5,6 +5,7 @@ public class Main {
     }
 
     public void demo01(){
+        String str = "hello java";
         System.out.println("hello java ");
     }
 }
