@@ -11,4 +11,7 @@ public class Main {
     public void demo03(){
         System.out.println("aaaa");
     }
+    
+    public void demo04(){
+    System.out.println("bbb");
 }
