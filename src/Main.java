@@ -5,6 +5,6 @@ public class Main {
     }
 
     public void demo01(){
-        System.out.println("hello java");
+        System.out.println("hello java ");
     }
 }
