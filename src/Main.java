@@ -12,6 +12,7 @@ public class Main {
         System.out.println("aaaa");
     }
     
-    public void demo04(){
-    System.out.println("bbb");
+    public void demo04() {
+        System.out.println("bbb");
+    }
 }
